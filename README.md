@@ -33,7 +33,7 @@ Realizei o redesenho do pop-up porque os problemas de **legibilidade**, **hierar
 - **Mantive o plano de fundo original e todos os elementos gráficos** conforme instruções
 
 ### 🔺 Pop-up Redesenhado:
-![Pop-up Redesenhado](https://drive.google.com/file/d/16i8D2A4GlmTV-KN8Y4LEwL2SxRJFXoPr/view?usp=drive_link)
+- [Pop-up Redesenhado](https://drive.google.com/file/d/16i8D2A4GlmTV-KN8Y4LEwL2SxRJFXoPr/view?usp=drive_link)
 
 # Exercício 2
 
