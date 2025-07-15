@@ -32,11 +32,6 @@ Realizei o redesenho do pop-up porque os problemas de **legibilidade**, **hierar
 - **Botão de ação mais destacado**: com cor sólida e legível
 - **Mantive o plano de fundo original e todos os elementos gráficos** conforme instruções
 
-## 🖼️ Comparativo Visual
-
-### 🔻 Pop-up Original:
-![Pop-up Original](./POPUP.jpg)
-
 ### 🔺 Pop-up Redesenhado:
 ![Pop-up Redesenhado](https://drive.google.com/file/d/16i8D2A4GlmTV-KN8Y4LEwL2SxRJFXoPr/view?usp=drive_link)
 
